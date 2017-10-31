@@ -1,0 +1,4 @@
+Notre application fait de la reconnaissance des visages en utilisant un CNN en Python avec la librairie Keras. Et la détection se fait en utilisant le fichier Haar Cascade d'openCV pour la detection.
+
+Expérimentation sur les données réelles: 'The ORL Data of faces)
+Lien pour telecharger   http://www.cl.cam.ac.uk/research/dtg/attarchive/facedatabase.html
